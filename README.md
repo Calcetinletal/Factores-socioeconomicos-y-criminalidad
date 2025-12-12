@@ -9,7 +9,7 @@ El estudio combina más de 270 variables procedentes de la Estadística de la Po
 
 El informe completo en formato HTML puede visualizarse directamente en el navegador:
 
-**https://calcetinletal.github.io/Factores-socioeconomicos-y-criminalidad/**
+**https://calcetinletal.github.io/Factores-socioeconomicos-y-criminalidad/index.html**
 
 
 ---
